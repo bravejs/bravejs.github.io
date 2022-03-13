@@ -1,0 +1,14 @@
+<svg width="330" height="330" xmlns="http://www.w3.org/2000/svg">
+ <title>BraveJS</title>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_13">
+   <rect transform="rotate(-45 101.36 228.64)" rx="10" stroke-width="0" stroke="#000" id="svg_3" height="230" width="50" y="113.6396" x="76.36038" fill="#1860b0"/>
+   <rect transform="rotate(-45 143.787 186.213)" rx="10" stroke-width="0" stroke="#000" id="svg_7" height="230" width="50" y="71.21319" x="118.78679" fill="#1860b0"/>
+   <rect transform="rotate(-45 165 122.574)" rx="10" stroke-width="0" stroke="#000" id="svg_8" height="170" width="50" y="37.57358" x="139.99999" fill="#1860b0"/>
+   <rect transform="rotate(-45 207.426 80.1472)" rx="10" stroke-width="0" stroke="#000" id="svg_10" height="170" width="50" y="-4.85283" x="182.4264" fill="#1860b0"/>
+   <rect transform="rotate(-45 271.066 186.213)" rx="10" stroke="#000" stroke-width="0" id="svg_11" height="50" width="110" y="161.21319" x="216.06602" fill="#1860b0"/>
+  </g>
+ </g>
+
+</svg>
